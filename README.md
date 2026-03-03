@@ -73,6 +73,7 @@ Transformo datos en decisiones estratégicas mediante soluciones escalables y ef
 ✔ Análisis exploratorio y visualización avanzada de datos
 </p>
 
+---
 ### Contacto
 - 🐙 GitHub: https://github.com/LeonardoLatorreH
 - 💼 LinkedIn: https://www.linkedin.com/in/leonardo-latorre-data  
