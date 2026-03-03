@@ -73,12 +73,9 @@ Transformo datos en decisiones estratégicas mediante soluciones escalables y ef
 ✔ Análisis exploratorio y visualización avanzada de datos
 </p>
 
----
+### Contacto
+- 🐙 GitHub: https://github.com/LeonardoLatorreH
+- 💼 LinkedIn: https://www.linkedin.com/in/leonardo-latorre-data  
+- 📧 Email: latorre77leo@gmail.com  
 
-<h2 align="center">Contacto</h2>
-
-<p align="center">
-<a href="https://LeonardoLatorreH.github.io/">💼 Portfolio</a> •
-<a href="www.linkedin.com/in/leonardo-latorre-data">🌐 LinkedIn</a> •
-<a href="Latorre77leo@gmail.com">📩 Email</a>
-</p>
+>
