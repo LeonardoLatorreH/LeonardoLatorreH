@@ -5,10 +5,12 @@ Data Analyst | Business Intelligence | SQL · Python · Automation
 </h3>
 
 <p align="center">
-Transformo datos en decisiones estratégicas mediante análisis avanzado, visualización inteligente y automatización.
+Especializado en análisis de datos, modelado de información y automatización de procesos.
+Transformo datos en decisiones estratégicas mediante soluciones escalables y eficientes.
 </p>
 
 ---
+
 <h2 align="center">🚀 Stack Tecnológico</h2>
 
 <p align="center">
@@ -41,10 +43,6 @@ Transformo datos en decisiones estratégicas mediante análisis avanzado, visual
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </a>
 
-<a href="https://matplotlib.org/" target="_blank">
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-</a>
-
 <a href="https://www.docker.com/" target="_blank">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </a>
@@ -63,37 +61,24 @@ Transformo datos en decisiones estratégicas mediante análisis avanzado, visual
 
 </p>
 
-
 ---
 
-<h2 align="center">📊 Proyectos Destacados</h2>
-
-### 🔹 Sistema BI – Análisis de Ventas  
-SQL Server · Modelado Dimensional · Power BI  
-Dashboard ejecutivo con KPIs y automatización de reportes.  
-🔗 https://github.com/LeonardoLatorreH/bi-ventas  
-
----
-
-### 🔹 Automatización de Datos con Python  
-Pandas · Limpieza de datos · Machine Learning  
-Pipeline de procesamiento y predicción.  
-🔗 https://github.com/LeonardoLatorreH/automatizacion-python  
-
----
-
-<h2 align="center">📈 Estadísticas</h2>
+<h2 align="center"> Enfoque Profesional</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=LeonardoLatorreH&show_icons=true&theme=tokyonight"/>
+✔ Modelado de bases de datos relacionales y normalización<br>
+✔ Desarrollo de dashboards ejecutivos en Power BI<br>
+✔ Automatización de procesos con Python<br>
+✔ Optimización de consultas y rendimiento SQL<br>
+✔ Análisis exploratorio y visualización avanzada de datos
 </p>
 
 ---
 
-<h2 align="center">🌐 Conecta conmigo</h2>
+<h2 align="center">Contacto</h2>
 
 <p align="center">
-<a href="https://LeonardoLatorreH.github.io/">🌍 Portfolio</a> •
-<a href="https://linkedin.com/in/tuusuario">LinkedIn</a> •
-<a href="mailto:tuemail@gmail.com">Email</a>
+<a href="https://LeonardoLatorreH.github.io/">💼 Portfolio</a> •
+<a href="https://linkedin.com/in/tuusuario">🌐 LinkedIn</a> •
+<a href="mailto:tuemail@gmail.com">📩 Email</a>
 </p>
