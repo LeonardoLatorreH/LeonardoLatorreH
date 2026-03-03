@@ -79,6 +79,6 @@ Transformo datos en decisiones estratégicas mediante soluciones escalables y ef
 
 <p align="center">
 <a href="https://LeonardoLatorreH.github.io/">💼 Portfolio</a> •
-<a href="https://linkedin.com/in/tuusuario">🌐 LinkedIn</a> •
-<a href="mailto:tuemail@gmail.com">📩 Email</a>
+<a href="www.linkedin.com/in/leonardo-latorre-data">🌐 LinkedIn</a> •
+<a href="Latorre77leo@gmail.com">📩 Email</a>
 </p>
