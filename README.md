@@ -75,8 +75,8 @@ Transformo datos en decisiones estratégicas mediante soluciones escalables y ef
 
 ---
 ### Contacto
-- 🐙 GitHub: https://github.com/LeonardoLatorreH
-- 💼 LinkedIn: https://www.linkedin.com/in/leonardo-latorre-data  
+- 💼 Portafolio: https://github.com/LeonardoLatorreH
+- 🌐 LinkedIn: https://www.linkedin.com/in/leonardo-latorre-data  
 - 📧 Email: latorre77leo@gmail.com  
 
 >
