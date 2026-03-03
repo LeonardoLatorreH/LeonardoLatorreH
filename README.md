@@ -1,52 +1,41 @@
-# 👋 Leonardo Latorre
-
-### Data Analyst | Business Intelligence | SQL · Python · Power BI · Automation
-
-Transformo datos en decisiones estratégicas mediante análisis avanzado, automatización y visualización inteligente.
-
----
-
 ## 🚀 Stack Tecnológico
 
-<p align="left">
+<p align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> Python  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> MySQL  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/> SQL Server  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/> PostgreSQL  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/> Pandas  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/> Docker  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> Git  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/> Linux  
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/><br>Python
+</a>
 
 </p>
 
----
+<p align="center">
 
-## 📊 Proyectos Destacados
+<a href="https://learn.microsoft.com/sql/sql-server/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45"/><br>SQL Server
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/><br>MySQL
+</a>
 
-### 🔹 Sistema BI – Análisis de Ventas
-SQL Server · Modelado Dimensional · Power BI  
-Dashboard ejecutivo con KPIs y automatización de reportes.  
-🔗 https://github.com/LeonardoLatorreH/bi-ventas
+</p>
 
----
+<p align="center">
 
-### 🔹 Automatización de Datos con Python
-Pandas · Limpieza de datos · Machine Learning  
-Pipeline de procesamiento y predicción.  
-🔗 https://github.com/LeonardoLatorreH/automatizacion-python
+<a href="https://www.postgresql.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/><br>PostgreSQL
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/><br>Docker
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/><br>Git
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linux.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/><br>Linux
+</a>
 
----
-
-## 📈 Estadísticas
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoLatorreH&show_icons=true&theme=dark)
-
----
-
-## 🌐 Conecta conmigo
-
-🔗 Portfolio: https://LeonardoLatorreH.github.io  
-🔗 LinkedIn: https://linkedin.com/in/tuusuario  
-📩 Email: tuemail@gmail.com
+</p>
