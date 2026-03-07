@@ -1,7 +1,7 @@
 <h1 align="center">Leonardo Latorre </h1>
 
 <h3 align="center">
-Data Analyst | Business Intelligence | SQL · Python · AutomationA
+Data Analyst | Business Intelligence | SQL · Python · Automation
 </h3>
 
 <p align="center">
