@@ -79,5 +79,5 @@ Transformo datos en decisiones estratégicas mediante soluciones escalables y ef
 - 🌐 LinkedIn: https://www.linkedin.com/in/leonardo-latorre-data  
 - 📧 Email: latorre77leo@gmail.com  
 
-<h2 align="center"> Portafolios en Proceso</h2>
+<h2 align="center"> Portafolio en Proceso</h2>
 >
