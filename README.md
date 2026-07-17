@@ -124,8 +124,6 @@ Analista de Datos Junior con formación en Ingeniería de Software, enfocado en 
 
 ## Enfoque Profesional
 
-## Enfoque Profesional
-
 - **Business Intelligence:** construcción de soluciones analíticas para transformar datos en indicadores de negocio que faciliten la toma de decisiones.
 
 - **Data Engineering:** desarrollo de pipelines ETL, integración de datos, modelado dimensional y Data Warehouses sobre plataformas cloud.
