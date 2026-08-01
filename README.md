@@ -34,6 +34,7 @@ Analista de Datos Junior con formación en Ingeniería de Software, enfocado en 
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white"/>
+<img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black"/>
 
 </p>
 
@@ -45,11 +46,13 @@ Analista de Datos Junior con formación en Ingeniería de Software, enfocado en 
 
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white"/>
 <img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat-square"/>
 <img src="https://img.shields.io/badge/Azure_SQL-0078D4?style=flat-square"/>
 <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache_Iceberg-0468FF?style=flat-square&logo=apacheiceberg&logoColor=white"/>
 
 </p>
 
@@ -63,19 +66,23 @@ Analista de Datos Junior con formación en Ingeniería de Software, enfocado en 
 <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
 <img src="https://img.shields.io/badge/Active_Directory-003366?style=flat-square"/>
+<img src="https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
 <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white"/>
 <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white"/>
 <img src="https://img.shields.io/badge/Clonezilla-2C5E8A?style=flat-square"/>
-<img src="https://img.shields.io/badge/Acronis-3378F7?style=flat-square"/>
-<img src="https://img.shields.io/badge/Sysinternals-0078D6?style=flat-square&logo=windows&logoColor=white"/>
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
 <img src="https://img.shields.io/badge/pfSense-212121?style=flat-square"/>
 <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square"/>
 <img src="https://img.shields.io/badge/Nmap-004170?style=flat-square"/>
+<img src="https://img.shields.io/badge/Wazuh-1A73E8?style=flat-square"/>
+<img src="https://img.shields.io/badge/ClamAV-000000?style=flat-square&logo=clamav&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firewalls-4B0082?style=flat-square"/>
 <img src="https://img.shields.io/badge/MFA-2E8B57?style=flat-square"/>
 <img src="https://img.shields.io/badge/RAID-555555?style=flat-square"/>
+<img src="https://img.shields.io/badge/AnyDesk-EF443B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Jira_Service_Management-0052CC?style=flat-square&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zeek-00A0DC?style=flat-square"/>
 
 </p>
 
@@ -113,6 +120,7 @@ Analista de Datos Junior con formación en Ingeniería de Software, enfocado en 
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
 
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white"/>
 
 </p>
 
