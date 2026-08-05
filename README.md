@@ -83,6 +83,7 @@ Analista de Datos Junior con formación en Ingeniería de Software, enfocado en 
 <img src="https://img.shields.io/badge/AnyDesk-EF443B?style=flat-square"/>
 <img src="https://img.shields.io/badge/Jira_Service_Management-0052CC?style=flat-square&logo=jira&logoColor=white"/>
 <img src="https://img.shields.io/badge/Zeek-00A0DC?style=flat-square"/>
+<img src="https://img.shields.io/badge/GNU_ddrescue-4CAF50?style=flat-square&logo=gnu&logoColor=white"/>
 
 </p>
 
